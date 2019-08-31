@@ -1,0 +1,11 @@
+{
+"title": ["Captain","Colonel","Cool","Crazy","Deputy","Dippy","Doctor","Fat","Good ol'","Little","Loopy","Loud","Noisy","Prof.","Sheriff","Silly","Skinny","Super","Ugly","Weird"],
+
+"first": ["Alvin","Astro","B.D.","Banjo","Barney","Bart","Batty","Beany","Bebop","Beppo","Bert","Bingo","Binky","Biscuit","Bizzy","Blinky","Bongo","Bonkers","Bonnie","Bonzo","Boo Boo","Bouncey","Bubbles","Buford","Bumpy","Bunky","Buster","Butch","Buzz","C.J.","C.W.","Candy","Cecil","Chester","Chip","Chipper","Chirpy","Chunky","Clancy","Clarence","Cliff","Clover","Clyde","Coconut","Comet","Corky","Corny","Cranky","Crazy","Cricket","Crumbly","Cuckoo","Cuddles","Curly","Daffodil","Daffy","Daphne","Dee Dee","Dinky","Dizzy","Domino","Dottie","Drippy","Droopy","Dudley","Duke","Dusty"],
+
+"last": ["Bagel","Banana","Bean","Beanie","Biggen","Bizzen","Blubber","Boingen","Bumber","Bumble","Bumpen","Cheezy","Crinkle","Crumble","Crunchen","Crunchy","Dandy","Dingle","Dizzen","Dizzy","Doggen","Dyno","Electro","Feather","Fiddle","Fizzle","Flippen","Flipper","Frinkel","Fumble","Funny","Fuzzy","Giggle"],
+
+"suffix": ["bee","berry","blabber","bocker","boing","boom","bounce","bouncer","brains","bubble","bumble","bump","bumper","chomp","corn","crash","crumbs","crump","crunchdoodle","dorf","face","fidget","fink","fish","flap","flapper","flinger","flip","flipper","foot","fuddy","fussen","gadget"],
+
+"origin": ["#title# #first# #last##suffix#"]
+}
