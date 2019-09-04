@@ -5,7 +5,7 @@
 
 "last": ["Bagel","Banana","Bean","Beanie","Biggen","Bizzen","Blubber","Boingen","Bumber","Bumble","Bumpen","Cheezy","Crinkle","Crumble","Crunchen","Crunchy","Dandy","Dingle","Dizzen","Dizzy","Doggen","Dyno","Electro","Feather","Fiddle","Fizzle","Flippen","Flipper","Frinkel","Fumble","Funny","Fuzzy","Giggle"],
 
-"suffix": ["bee","berry","blabber","bocker","boing","boom","bounce","bouncer","brains","bubble","bumble","bump","bumper","chomp","corn","crash","crumbs","crump","crunchdoodle","dorf","face","fidget","fink","fish","flap","flapper","flinger","flip","flipper","foot","fuddy","fussen","gadget"],
+"suffix": ["bee","berry","blabber","bocker","boing","boom","bounce","bouncer","brains","bubble","bumble","bump","bumper","chomp","corn","crash","crumbs","crump","crunch","doodle","dorf","face","fidget","fink","fish","flap","flapper","flinger","flip","flipper","foot","fuddy","fussen","gadget"],
 
 "origin": ["#title# #first# #last##suffix#"]
 }
